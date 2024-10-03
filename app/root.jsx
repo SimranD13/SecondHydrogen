@@ -148,7 +148,7 @@ export function Layout({children}) {
         <Meta />
         <Links />
       </head>
-      <body>
+      <body class="soso">
         {data ? (
           <Analytics.Provider
             cart={data.cart}
