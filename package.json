@@ -1,5 +1,5 @@
 {
-  "name": "az-hydrogen",
+  "name": "braco-headless",
   "private": true,
   "sideEffects": false,
   "version": "2024.7.9",
@@ -15,11 +15,7 @@
   "dependencies": {
     "@remix-run/react": "^2.10.1",
     "@remix-run/server-runtime": "^2.10.1",
-<<<<<<< HEAD
     "@shopify/hydrogen": "^2024.7.8",
-=======
-    "@shopify/hydrogen": "2024.7.8",
->>>>>>> 4ba478f35ca8445292080f4b5fbc51cba7786aa3
     "@shopify/remix-oxygen": "^2.0.8",
     "graphql": "^16.6.0",
     "graphql-tag": "^2.12.6",
@@ -31,11 +27,7 @@
     "@graphql-codegen/cli": "5.0.2",
     "@remix-run/dev": "^2.10.1",
     "@remix-run/eslint-config": "^2.10.1",
-<<<<<<< HEAD
     "@shopify/cli": "^3.68.0",
-=======
-    "@shopify/cli": "~3.66.1",
->>>>>>> 4ba478f35ca8445292080f4b5fbc51cba7786aa3
     "@shopify/hydrogen-codegen": "^0.3.1",
     "@shopify/mini-oxygen": "^3.0.5",
     "@shopify/oxygen-workers-types": "^4.1.2",
@@ -54,8 +46,4 @@
   "engines": {
     "node": ">=18.0.0"
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 4ba478f35ca8445292080f4b5fbc51cba7786aa3
